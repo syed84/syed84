@@ -1,5 +1,10 @@
-<h1 align="center">Hi, Myself Syed Arsalan (Rayyan).</h1>
-<h3 align="center">Software Engineer</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aminawinti.aminawinti">
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thesyedarsalan@gmail.com)](mailto:thesyedarsalan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syedofficial/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=923191513864&text=Hello!)](https://api.whatsapp.com/send?phone=923191513864&text=Hello!)
+
+### Hi I'm Syed, Software Engineer.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed84" alt="syed84" /></a> </p>
 
