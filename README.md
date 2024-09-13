@@ -91,7 +91,7 @@ I’m learning Firebase and Node.js.
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed84&show_icons=true&locale=en&layout=compact" alt="syed84" /></p>
 
-</div>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed84&" alt="syed84" /></p>
 
+</div>
