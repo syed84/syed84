@@ -51,11 +51,7 @@ I’m currently learning Next.js and React Native 🌱
   <tr>
 
     
-  <td align="center" width="120" height="120">
-        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48" height="48" alt="node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="120" height="120"> 
+   <td align="center" width="120" height="120"> 
         <img src="https://v4.material-ui.com/static/logo.png" width="48" height="48" alt="Material UI" />
       <br>Material UI
     </td>
@@ -70,6 +66,10 @@ I’m currently learning Next.js and React Native 🌱
       <br>Firebase
     </td>
 
+  <td align="center" width="120" height="120">
+        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48" height="48" alt="node.js" />
+      <br>Node.js
+    </td>
   <td align="center" width="120" height="120">
         <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="48" height="48" alt="SQL" />
       <br>SQL
