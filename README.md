@@ -22,17 +22,17 @@ I’m currently learning Next.js and React Native 🌱
     </td>
     
   <td align="center" width="120" height="120">
-          <img src="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://png.pngtree.com/png-vector/20220623/ourmid/pngtree-javascript-programming-language-code-coding-png-image_5288940.png)" width="48" height="48" alt="JavaScript" />
+          <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
 
   <td align="center" width="120" height="120">
-      <img src="href="https://www.w3schools.com/html/" width="48" height="48" alt="HTML" />
+      <img src="href="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     
   <td align="center" width="120" height="120">
-        <img src="href="https://www.w3schools.com/css/" width="48" height="48" alt="css" />
+        <img src="https://cdn.worldvectorlogo.com/logos/css-4.svg" height="48" alt="css" />
       <br>CSS
     </td>
 
