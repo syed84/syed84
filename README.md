@@ -27,7 +27,7 @@ I’m currently learning Next.js and React Native 🌱
     </td>
 
   <td align="center" width="120" height="120">
-      <img src="href="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="48" height="48" alt="HTML" />
+      <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     
