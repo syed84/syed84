@@ -4,13 +4,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syedofficial/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=923191513864&text=Hello!)](https://api.whatsapp.com/send?phone=923191513864&text=Hello!)
 
-### Hi I'm Syed, Software Engineer.
+### Hi I'm Syed Arsalan (Rayyan), Software Engineer 💻.
 
 
 <br/>
-My tech stack involves Typescript, React, Node.js, Express.js, MongoDB, PostgreSQL, and AWS.
+My tech stack involves JavaScript, React, Tailwind, Bootstrap and Material UI.
 <br/>
-I’m currently learning Next.js and React Native 🌱
+I’m learning Firebase and Node.js. 
 
 <h2 align="left" id="tech">Tech Stack</h2>
 
@@ -91,8 +91,7 @@ I’m currently learning Next.js and React Native 🌱
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed84&show_icons=true&locale=en&layout=compact" alt="syed84" /></p>
 
-
-
+</div>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed84&" alt="syed84" /></p>
 
-</div>
