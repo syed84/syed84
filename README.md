@@ -38,7 +38,7 @@ I’m currently learning Next.js and React Native 🌱
 
   <td align="center" width="120" height="120">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwond
+      <br>Tailwind
     </td>
 
 
@@ -47,6 +47,8 @@ I’m currently learning Next.js and React Native 🌱
       <br>BootStrap
     </td>
     
+  </tr>
+  <tr>
 
     
   <td align="center" width="120" height="120">
@@ -57,12 +59,25 @@ I’m currently learning Next.js and React Native 🌱
         <img src="https://v4.material-ui.com/static/logo.png" width="48" height="48" alt="Material UI" />
       <br>Material UI
     </td>
-  </tr>
-  <tr>
    
 <td align="center" width="120" height="120">
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
+    </td>
+
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+
+   <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
        
   </tr>
