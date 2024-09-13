@@ -22,7 +22,7 @@ I’m currently learning Next.js and React Native 🌱
     </td>
     
   <td align="center" width="120" height="120">
-          <img src="https://developer.mozilla.org/en-US/docs/Web/JavaScript" width="48" height="48" alt="JavaScript" />
+          <img src="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://png.pngtree.com/png-vector/20220623/ourmid/pngtree-javascript-programming-language-code-coding-png-image_5288940.png)" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
 
