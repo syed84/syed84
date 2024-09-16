@@ -10,7 +10,7 @@
 <br/>
 My tech stack involves JavaScript, React, Tailwind, Bootstrap and Material UI. 🚀
 <br/>
-I’m learning Firebase and Node.js. 🎯
+I’m learning React Native and Firebase. 🎯
 
 
 <h2 align="left" id="tech">Tech Stack</h2>
@@ -61,13 +61,13 @@ I’m learning Firebase and Node.js. 🎯
     </td>
 
   <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
+      <br>React Native
+    </td>
+ 
+  <td align="center" width="120" height="120">
         <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="48" height="48" alt="Firebase" />
       <br>Firebase
-    </td>
-
-  <td align="center" width="120" height="120">
-        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48" height="48" alt="node.js" />
-      <br>Node.js
     </td>
 
   <td align="center" width="120" height="120">
