@@ -103,7 +103,15 @@ I’m also learning techs which are listed in my tech stack.
         <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" width="48" height="48" alt="Linux" />
       <br>MongoDB
     </td>
+ <td align="center" width="120" height="120">
+        <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="48" height="48" alt="Linux" />
+      <br>EJS
+    </td>
 
+ <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="48" height="48" alt="Linux" />
+      <br>TypeScript
+    </td>
     
   </tr>
 </table>
