@@ -4,13 +4,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syedofficial/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=923191513864&text=Hello!)](https://api.whatsapp.com/send?phone=923191513864&text=Hello!)
 
-### Hi I'm Syed Arsalan (Rayyan), Software Engineer. 💻
+### Hi I'm Syed Arsalan, Software Engineer. 💻
 
 
 <br/>
-My tech stack involves JavaScript, React, Tailwind, Bootstrap and Material UI. 🚀
+My tech stack involves JavaScript, Angular, React and Tailwind. 🚀
 <br/>
-I’m learning React Native and Firebase. 🎯
+I’m also learning techs which are listed in my tech stack.
 
 
 <h2 align="left" id="tech">Tech Stack</h2>
@@ -62,8 +62,10 @@ I’m learning React Native and Firebase. 🎯
 
   <td align="center" width="120" height="120">
         <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
-      <br>React Native
+      <br>React Native 
     </td>
+
+    
  
   <td align="center" width="120" height="120">
         <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="48" height="48" alt="Firebase" />
@@ -79,7 +81,30 @@ I’m learning React Native and Firebase. 🎯
         <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-       
+
+    
+  </tr>
+  <tr>
+      <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="48" height="48" alt="Linux" />
+      <br>Angular
+    </td>
+
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="48" height="48" alt="Linux" />
+      <br>Node
+    </td>
+
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="48" height="48" alt="Linux" />
+      <br>Express
+    </td>
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" width="48" height="48" alt="Linux" />
+      <br>MongoDB
+    </td>
+
+    
   </tr>
 </table>
 
