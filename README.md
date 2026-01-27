@@ -134,13 +134,55 @@ My tech stack involves JavaScript, React, Next, Node and Tailwind. 🚀
 
 </tr>
 
+
+
+
+
   <tr>
-    
-   <td align="center" width="120" height="120"> 
-        <img src="https://v4.material-ui.com/static/logo.png" width="48" height="48" alt="Material UI" />
-      <br>Material UI
+
+<td align="center" width="120" height="120">
+        <img src="https://tkdodo.eu/blog/static/f18038b8566526e3d3dfcf7c3b807b2a/bbe0c/zustand-context.jpg" width="48" height="48" alt="Zustand" />
+      <br>Zustand
+</td>
+
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="RTK" />
+      <br>Redux Tool Kit
+  </td>
+  
+
+   <td align="center" width="120" height="120">
+        <img src="://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" width="48" height="48" alt="Azure" />
+      <br>Azure
     </td>
+    
+
+   <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+
+  <td align="center" width="120" height="120">
+        <img src="https://www.svgrepo.com/show/374111/swagger.svg" width="48" height="48" alt="Swagger" />
+      <br>Swagger
+    </td>
+
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/auth0.svg" width="48" height="48" alt="Auth0" />
+      <br>Auth0
+    </td
+    
+
    
+  </tr>
+
+  <tr>
+
+   <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>  
+    
   <td align="center" width="120" height="120">
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
@@ -151,11 +193,12 @@ My tech stack involves JavaScript, React, Next, Node and Tailwind. 🚀
       <br>React Native 
     </td>
 
-   <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="48" height="48" alt="Angular" />
-      <br>Angular
+
+     
+   <td align="center" width="120" height="120"> 
+        <img src="https://v4.material-ui.com/static/logo.png" width="48" height="48" alt="Material UI" />
+      <br>Material UI
     </td>
- 
 
 
   <td align="center" width="120" height="120">
@@ -171,23 +214,8 @@ My tech stack involves JavaScript, React, Next, Node and Tailwind. 🚀
     
   </tr>
 
-<!--
-  <tr>
 
-   <td align="center" width="120" height="120">
-        <img src="://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" width="48" height="48" alt="Linux" />
-      <br>Azure
-    </td>
-    
-
-   <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="48" height="48" alt="Linux" />
-      <br>AWS
-    </td>
-
-   
-  </tr>
-  -->
+  
   
 </table>
 
