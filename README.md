@@ -40,7 +40,7 @@ I’m also learning techs which are listed in my tech stack.
     
 
    <td align="center" width="120" height="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="BootStrap" />
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="48" height="48" alt="BootStrap" />
       <br>BootStrap
     </td>
 
@@ -101,17 +101,17 @@ I’m also learning techs which are listed in my tech stack.
 
   
    <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="48" height="48" alt="Linux" />
+        <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="48" height="48" alt="GCP" />
       <br>Google Cloud Platform
     </td>
 
  <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/cloudflare-1.svg" width="48" height="48" alt="Linux" />
-      <br>CloudFare
+        <img src="https://cdn.worldvectorlogo.com/logos/cloudflare-1.svg" width="48" height="48" alt="CloudFlare" />
+      <br>CloudFlare
     </td>
 
    <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-1.svg" width="48" height="48" alt="Linux" />
+        <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-1.svg" width="48" height="48" alt="Cloudinary" />
       <br>Cloudinary
     </td>
 
@@ -123,12 +123,12 @@ I’m also learning techs which are listed in my tech stack.
     </td>
 
 <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg" width="48" height="48" alt="Linux" />
+        <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg" width="48" height="48" alt="GA" />
       <br>Google Analytics
     </td>
     
    <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/docker-1.svg" width="48" height="48" alt="Linux" />
+        <img src="https://cdn.worldvectorlogo.com/logos/docker-1.svg" width="48" height="48" alt="CI/CD" />
       <br>CI/CD
     </td>
 
@@ -147,12 +147,12 @@ I’m also learning techs which are listed in my tech stack.
     </td>
 
   <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
+        <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="48" height="48" alt="React Native" />
       <br>React Native 
     </td>
 
    <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="48" height="48" alt="Linux" />
+        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="48" height="48" alt="Angular" />
       <br>Angular
     </td>
  
