@@ -74,7 +74,7 @@ I’m also learning techs which are listed in my tech stack.
     </td>
 
   <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="48" height="48" alt="Express" />
+        <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="68" height="68" alt="Express" />
       <br>Express
     </td>
   <td align="center" width="120" height="120">
