@@ -17,11 +17,7 @@ I’m also learning techs which are listed in my tech stack.
 
 <table>
   <tr>
-  <td align="center" width="120" height="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    
+
   <td align="center" width="120" height="120">
           <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
@@ -37,22 +33,37 @@ I’m also learning techs which are listed in my tech stack.
       <br>CSS
     </td>
 
+   <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    
+
+   <td align="center" width="120" height="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="BootStrap" />
+      <br>BootStrap
+    </td>
+
+
   <td align="center" width="120" height="120">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
 
-  <td align="center" width="120" height="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="BootStrap" />
-      <br>BootStrap
-    </td>
+
     
   </tr>
+
+  <td align="center" width="120" height="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    
 
   <tr>
       <td align="center" width="120" height="120">
         <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next.JS" />
-      <br>Next.JS
+      <br>Next
     </td>
 
   <td align="center" width="120" height="120">
@@ -73,11 +84,7 @@ I’m also learning techs which are listed in my tech stack.
       <br>EJS
     </td> -->
 
- <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    
+
  <td align="center" width="120" height="120">
         <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="48" height="48" alt="Postman" />
       <br>Postman
@@ -86,43 +93,6 @@ I’m also learning techs which are listed in my tech stack.
   </tr>
 
 
-  
-  <tr>
-    
-   <td align="center" width="120" height="120"> 
-        <img src="https://v4.material-ui.com/static/logo.png" width="48" height="48" alt="Material UI" />
-      <br>Material UI
-    </td>
-   
-  <td align="center" width="120" height="120">
-        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-
-  <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
-      <br>React Native 
-    </td>
-
-    
- 
-  <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-
-  <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="48" height="48" alt="SQL" />
-      <br>SQL
-    </td>
-
-   <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-
-    
-  </tr>
 
 
   <tr>
@@ -144,11 +114,11 @@ I’m also learning techs which are listed in my tech stack.
     </td>
 
 
-   <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="48" height="48" alt="Linux" />
-      <br>Angular
-    </td>
 
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
 
 <td align="center" width="120" height="120">
         <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg" width="48" height="48" alt="Linux" />
@@ -160,10 +130,44 @@ I’m also learning techs which are listed in my tech stack.
       <br>CI/CD
     </td>
 
-
-
-
 </tr>
+
+  <tr>
+    
+   <td align="center" width="120" height="120"> 
+        <img src="https://v4.material-ui.com/static/logo.png" width="48" height="48" alt="Material UI" />
+      <br>Material UI
+    </td>
+   
+  <td align="center" width="120" height="120">
+        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
+      <br>React Native 
+    </td>
+
+   <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="48" height="48" alt="Linux" />
+      <br>Angular
+    </td>
+ 
+
+
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+
+   <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+
+    
+  </tr>
 
 <!--
   <tr>
