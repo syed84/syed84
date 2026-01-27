@@ -54,14 +54,16 @@ I’m also learning techs which are listed in my tech stack.
     
   </tr>
 
+
+  <tr>
+
   <td align="center" width="120" height="120">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
       <br>React
     </td>
     
-
-  <tr>
-      <td align="center" width="120" height="120">
+    
+  <td align="center" width="120" height="120">
         <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next.JS" />
       <br>Next
     </td>
