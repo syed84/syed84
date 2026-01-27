@@ -23,7 +23,7 @@ I’m also learning techs which are listed in my tech stack.
     </td>
     
   <td align="center" width="120" height="120">
-          <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="48" height="48" alt="JavaScript" />
+          <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript-1.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
 
@@ -48,6 +48,45 @@ I’m also learning techs which are listed in my tech stack.
     </td>
     
   </tr>
+
+  <tr>
+      <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next.JS" />
+      <br>Next.JS
+    </td>
+
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="48" height="48" alt="Node" />
+      <br>Node
+    </td>
+
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+  <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+ <!-- <td align="center" width="120" height="120">
+        <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="48" height="48" alt="Linux" />
+      <br>EJS
+    </td> -->
+
+ <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    
+ <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    
+  </tr>
+
+
+  
   <tr>
     
    <td align="center" width="120" height="120"> 
@@ -84,36 +123,66 @@ I’m also learning techs which are listed in my tech stack.
 
     
   </tr>
+
+
   <tr>
-      <td align="center" width="120" height="120">
+
+  
+   <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="48" height="48" alt="Linux" />
+      <br>Google Cloud Platform
+    </td>
+
+ <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/cloudflare-1.svg" width="48" height="48" alt="Linux" />
+      <br>CloudFare
+    </td>
+
+   <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-1.svg" width="48" height="48" alt="Linux" />
+      <br>Cloudinary
+    </td>
+
+
+   <td align="center" width="120" height="120">
         <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="48" height="48" alt="Linux" />
       <br>Angular
     </td>
 
-  <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="48" height="48" alt="Linux" />
-      <br>Node
-    </td>
 
-  <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="48" height="48" alt="Linux" />
-      <br>Express
-    </td>
-  <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" width="48" height="48" alt="Linux" />
-      <br>MongoDB
-    </td>
- <td align="center" width="120" height="120">
-        <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="48" height="48" alt="Linux" />
-      <br>EJS
-    </td>
-
- <td align="center" width="120" height="120">
-        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="48" height="48" alt="Linux" />
-      <br>TypeScript
+<td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg" width="48" height="48" alt="Linux" />
+      <br>Google Analytics
     </td>
     
+   <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/docker-1.svg" width="48" height="48" alt="Linux" />
+      <br>CI/CD
+    </td>
+
+
+
+
+</tr>
+
+<!--
+  <tr>
+
+   <td align="center" width="120" height="120">
+        <img src="://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" width="48" height="48" alt="Linux" />
+      <br>Azure
+    </td>
+    
+
+   <td align="center" width="120" height="120">
+        <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="48" height="48" alt="Linux" />
+      <br>AWS
+    </td>
+
+   
   </tr>
+  -->
+  
 </table>
 
 
