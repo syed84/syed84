@@ -23,7 +23,7 @@ I’m also learning techs which are listed in my tech stack.
     </td>
     
   <td align="center" width="120" height="120">
-          <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript-1.svg" width="48" height="48" alt="JavaScript" />
+          <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
 
