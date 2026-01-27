@@ -152,7 +152,7 @@ My tech stack involves JavaScript, React, Next, Node and Tailwind. 🚀
   
 
    <td align="center" width="120" height="120">
-        <img src="://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" width="48" height="48" alt="Azure" />
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" width="48" height="48" alt="Azure" />
       <br>Azure
     </td>
     
