@@ -10,6 +10,9 @@
 Expertise in full stack development to build modern applications. Uses JavaScript for both frontend and backend work, with Next.js for server-side rendering and scalable UI design. Works with REST APIs, application logic, and database integration, and deploys applications using a CI/CD pipeline. My tech stack includes JavaScript, React, Next, Node, and Tailwind. I’m also learning techs which are listed in my tech stack. 🚀
 <br/>
 
+<h4>Other GitHub Account: </h4><a href="https://github.com/syedarsalaan">@SyedArsalaan</a> 
+
+
 
 
 <h2 align="left" id="tech">Tech Stack</h2>
