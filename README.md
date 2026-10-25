@@ -1,6 +1,6 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=syed84.syed84"> -->
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thesyedarsalan@gmail.com)](mailto:thesyedarsalan@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syed@raydyant.com)](mailto:syed@raydyant.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syedofficial/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=923191513864&text=Hello!)](https://api.whatsapp.com/send?phone=923191513864&text=Hello!)
 
@@ -10,7 +10,7 @@
 Expertise in full stack development to build modern applications. Uses JavaScript for both frontend and backend work, with Next.js for server-side rendering and scalable UI design. Works with REST APIs, application logic, and database integration, and deploys applications using a CI/CD pipeline. My tech stack includes JavaScript, React, Next, Node, and Tailwind. I’m also learning techs which are listed in my tech stack. 🚀
 <br/>
 
-<h4>Other GitHub Account: </h4><a href="https://github.com/syedarsalaan">@SyedArsalaan</a> 
+<!-- <h4>Other GitHub Account: </h4><a href="https://github.com/syedarsalaan">@SyedArsalaan</a>  -->
 
 
 
